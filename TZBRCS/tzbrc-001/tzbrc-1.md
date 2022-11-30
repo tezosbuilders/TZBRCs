@@ -4,6 +4,7 @@ title: TZBRC Purpose and Guidelines
 status: Draft
 type: Meta
 author: Göran Sandström (@veqtor)
+gratuity: tz1WidyAU8wuyG25Pd7b93bcx9hMu7W9Pea8
 created: 2022-11-30
 ---
 
@@ -105,7 +106,7 @@ Additionally, the authors agree to follow and enforce the TZIP Code of Conduct, 
 
 Each TZBRC must begin with an RFC 822 style header preamble, preceded and followed by three hyphens (`---`). The headers must appear in the following order.
 
-- `tzip:` TZBRC number. The number should be requested via a merge request as soon as the TZBRC is in *Work In Progress* status
+- `tzbrc:` TZBRC number. The number should be requested via a merge request as soon as the TZBRC is in *Work In Progress* status
 - `title:` A short descriptive title, maximum 44 characters. If the TZBRC has a *name* (see [TZIP-2]), then it is added as a title prefix (e.g. *TZBFA1 - Abstract
 Ledger*), again, prefixing with TZB to avoid collisions
 - `author:` Name(s) of author(s), ideally with their username(s) or email address(es). Examples: *John Doe*, *John Doe (@username)*, *John Doe
