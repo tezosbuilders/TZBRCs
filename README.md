@@ -8,16 +8,16 @@ Tezos Builders Request for Comments
 | :--------:  | :---------------------------------------------------- | :-----------: | :--------------- |
 | [TZBRC-1]   | TZBRC Purpose and Guidelines                          |  2022-11-30   | Draft            |
 
-## Current TZIPs
+## Current TZBRCs
 |    TZBRC    | Title                                                 | Creation Date | Status           |
 | :--------:  | :---------------------------------------------------- | :-----------: | :--------------- |
 
-## Draft/WIP TZIPs
+## Draft/WIP TZBRCs
 |    TZBRC    | Title                                                 | Creation Date | Status           |
 | :--------:  | :---------------------------------------------------- | :-----------: | :--------------- |
 
 
-## Deprecated/Withdrawn TZIPs
+## Deprecated/Withdrawn TZBRCs
 |    TZBRC    | Title                                                 | Creation Date | Status           |
 | :--------:  | :---------------------------------------------------- | :-----------: | :--------------- |
 
